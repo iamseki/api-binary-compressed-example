@@ -1,0 +1,7 @@
+backend/tmp/gzip/*
+
+!backend/tmp/gzip/.gitkeep
+
+out-file.gz
+
+node_modules
